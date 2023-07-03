@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "pdf2json": "^3.0.4"
+  },
+  "name": "ocrfacture",
+  "version": "1.0.0",
+  "main": "processPDF.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GioGio-Armani/OCRFacture.git"
+  },
+  "author": "giogio-armani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GioGio-Armani/OCRFacture/issues"
+  },
+  "homepage": "https://github.com/GioGio-Armani/OCRFacture#readme",
+  "description": ""
+}
